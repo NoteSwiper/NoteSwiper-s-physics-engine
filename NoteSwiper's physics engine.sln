@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoteSwiper's physics engine", "NoteSwiper's physics engine\NoteSwiper's physics engine.csproj", "{91FBD794-9935-4380-8F86-6D5AB38BCDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91FBD794-9935-4380-8F86-6D5AB38BCDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91FBD794-9935-4380-8F86-6D5AB38BCDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91FBD794-9935-4380-8F86-6D5AB38BCDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91FBD794-9935-4380-8F86-6D5AB38BCDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08D9F58B-1F88-4593-AA1B-48A43058D696}
+	EndGlobalSection
+EndGlobal
